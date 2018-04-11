@@ -7,4 +7,4 @@ end
 
 # irb test
 # 101.times {|x| puts fizzbuzz x }
-# (0..100).each { |x| puts fizzbuzz x }
+# (1..100).each { |x| puts fizzbuzz x }
